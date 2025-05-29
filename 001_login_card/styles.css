@@ -1,0 +1,136 @@
+html, body {
+    margin: 0;
+    min-height: 100%;
+    min-width: 100%;
+    padding: 0;
+    background-color: #f3f7fc;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    color: #1D284E;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    min-height: 100vh;
+}
+
+.background {
+    width: 793px;
+    height: 367px;
+    background-color: #1D284E;
+    border-radius: 30px;
+}
+
+.card {
+    position: absolute;
+    top: 36%;
+    width: 685px;
+    height: 386px;
+    background-color: #FFFFFF;
+    border-radius: 40px;
+    padding: 54px;
+    box-shadow: 0 44px 84px 0 rgba(27, 57, 134, 0.12);
+}
+
+.card__title {
+    font-family: 'Merriweather', serif;
+    font-size: 32px;
+    font-weight: 700;
+    margin: inherit;
+}
+
+.card__text {
+    font-size: 18px;
+    margin: 0 0 62px;
+}
+
+.card__legal {
+    font-size: 14px;
+}
+
+.card__buttons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16px;
+}
+
+.card__buttons a {
+    text-decoration: none;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    width: 262px;
+    height: 75px;
+    flex-grow: 1;
+    color: #FFFFFF;
+    border-radius: 16px;
+    border: none;
+}
+
+.button__text {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.button--primary {
+    background-color: #1D284E;
+}
+
+.button--secondary {
+    background-color: #227BEF;
+}
+
+.button__icon {
+    width: 24px;
+    height: 24px;
+}
+
+@media (max-width: 1024px) {
+    .background {
+        width: 70vw;
+    }
+
+    .card {
+        width: 60vw;
+        height: auto;
+    }
+
+    .card__buttons {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .button {
+        width: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    .background {
+        width: 90vw;
+    }
+
+    .card {
+        width: 75vw;
+        padding: 28px;
+    }
+
+    .button__text {
+        font-size: 14px;
+    }
+}
+
