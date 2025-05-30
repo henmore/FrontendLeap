@@ -1,5 +1,15 @@
 # FrontendLeap
 Bienvenido/a al repositorio donde alojaré mis ejercicios, retos, proyectos y aprendizajes del programa [FrontendLeap](https://frontendleap.com/) 🚀. Aquí encontrarás desde prácticas básicas hasta proyectos más complejos, desarrollados con HTML, CSS, JavaScript y diferentes tecnologías frontend.
+
+---
+## 📅 Progreso
+| #   | Nombre                    | Tecnologías | Estado         |
+|-----|---------------------------|-------------|----------------|
+| 001 | Login Card                | HTML5, CSS3 | ✅ Completado   |
+| 002 | Advanced Profile Card     | HTML5, CSS3 | ⌛ Pendiente    |
+| 003 | Product Widget Responsive | HTML5, CSS3 | ⌛ Pendiente    |
+| 004 | Progress Bar (Challenge)  | HTML5, CSS3 | 🚧 En progreso |
+
 ## 📌 Estructura del Repositorio
 Cada directorio de proyecto/ejercicio sigue esta convención:
 ````
@@ -22,15 +32,6 @@ Cada directorio de proyecto/ejercicio sigue esta convención:
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
 
 ---
-## 📅 Progreso
-| #   | Nombre                    | Tecnologías | Estado         |
-|-----|---------------------------|-------------|----------------|
-| 001 | Login Card                | HTML5, CSS3 | ✅ Completado   |
-| 002 | Advanced Profile Card     | HTML5, CSS3 | ⌛ Pendiente    |
-| 003 | Product Widget Responsive | HTML5, CSS3 | ⌛ Pendiente    |
-| 004 | Progress Bar (Challenge)  | HTML5, CSS3 | 🚧 En progreso |
-
----
 ## 📜 Licencia
 Este repositorio está bajo licencia [MIT](https://opensource.org/license/MIT) - Open Source.
 
@@ -42,6 +43,4 @@ Este repositorio está bajo licencia [MIT](https://opensource.org/license/MIT) -
 Última actualización: Mayo 2025
 
 Hecho con 💻 y mucho ❤️ de la mano de nuestro mentor [Juan Andrés Núñez](https://github.com/juanwmedia) 💪
-
-
 
