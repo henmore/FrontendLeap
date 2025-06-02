@@ -3,12 +3,12 @@ Bienvenido/a al repositorio donde alojaré mis ejercicios, retos, proyectos y ap
 
 ---
 ## 📅 Progreso
-| #   | Nombre                                                               | Tecnologías | Estado         |
-|-----|----------------------------------------------------------------------|-------------|----------------|
-| 001 | [Login Card](https://henmore.github.io/FrontendLeap/001_login_card/) | HTML5, CSS3 | ✅ Completado   |
-| 002 | Advanced Profile Card                                                | HTML5, CSS3 | ⌛ Pendiente    |
-| 003 | Product Widget Responsive                                            | HTML5, CSS3 | ⌛ Pendiente    |
-| 004 | [Progress Bar (Challenge)](https://henmore.github.io/FrontendLeap/004_progress_bar_challenge/)                                         | HTML5, CSS3 | 🚧 En progreso |
+| #   | Nombre                                                                                         | Tecnologías  | Estado         |
+|-----|------------------------------------------------------------------------------------------------|--------------|----------------|
+| 001 | [Login Card](https://henmore.github.io/FrontendLeap/001_login_card/)                           | HTML5, CSS3  | ✅ Completado   |
+| 002 | [Advanced Profile Card](https://henmore.github.io/FrontendLeap/002_advanced_profile_card/)     | HTML5, CSS3  | 🚧 En progreso |
+| 003 | Product Widget Responsive                                                                      | HTML5, CSS3  | ⌛ Pendiente    |
+| 004 | [Progress Bar (Challenge)](https://henmore.github.io/FrontendLeap/004_progress_bar_challenge/) | HTML5, CSS3  | ⌛ Pendiente    |
 
 ## 📌 Estructura del Repositorio
 Cada directorio de proyecto/ejercicio sigue esta convención:
