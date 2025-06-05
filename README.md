@@ -3,13 +3,13 @@ Bienvenido/a al repositorio donde alojaré mis ejercicios, retos, proyectos y ap
 
 ---
 ## 📅 Progreso
-| #   | Nombre                                                                                                         | Tecnologías  | Estado          |
-|-----|----------------------------------------------------------------------------------------------------------------|--------------|-----------------|
-| 001 | [Login Card](https://henmore.github.io/FrontendLeap/001_login_card/)                                           | HTML5, CSS3  | ✅ Completado    |
-| 002 | [Advanced Profile Card](https://henmore.github.io/FrontendLeap/002_advanced_profile_card/)                     | HTML5, CSS3  | ✅ Completado    |
-| 003 | Product Widget Responsive                                                                                      | HTML5, CSS3  | ⌛ Pendiente     |
-| 004 | [Progress Bar (Challenge)](https://henmore.github.io/FrontendLeap/004_progress_bar_challenge/)                 | HTML5, CSS3  | ✅ Completado     |
-| 005 | [Testimonials Slider (Challenge)](https://henmore.github.io/FrontendLeap/005_testimonials-slider-challenge/)   | HTML5, CSS3  | 🚧 En progreso  |
+| #   | Nombre                                                                                                       | Tecnologías  | Estado         |
+|-----|--------------------------------------------------------------------------------------------------------------|--------------|----------------|
+| 001 | [Login Card](https://henmore.github.io/FrontendLeap/001_login-card/)                                         | HTML5, CSS3  | ✅ Completado   |
+| 002 | [Advanced Profile Card](https://henmore.github.io/FrontendLeap/002_advanced-profile-card/)                   | HTML5, CSS3  | ✅ Completado   |
+| 003 | Product Widget Responsive                                                                                    | HTML5, CSS3  | ⌛ Pendiente    |
+| 004 | [Progress Bar (Challenge)](https://henmore.github.io/FrontendLeap/004_progress-bar-challenge/)               | HTML5, CSS3  | ✅ Completado   |
+| 005 | [Testimonials Slider (Challenge)](https://henmore.github.io/FrontendLeap/005_testimonials-slider-challenge/) | HTML5, CSS3  | 🚧 En progreso |
 
 ## 📌 Estructura del Repositorio
 Cada directorio de proyecto/ejercicio sigue esta convención:
