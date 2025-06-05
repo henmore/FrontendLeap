@@ -3,17 +3,18 @@ Bienvenido/a al repositorio donde alojaré mis ejercicios, retos, proyectos y ap
 
 ---
 ## 📅 Progreso
-| #   | Nombre                                                                                         | Tecnologías  | Estado         |
-|-----|------------------------------------------------------------------------------------------------|--------------|----------------|
-| 001 | [Login Card](https://henmore.github.io/FrontendLeap/001_login_card/)                           | HTML5, CSS3  | ✅ Completado   |
-| 002 | [Advanced Profile Card](https://henmore.github.io/FrontendLeap/002_advanced_profile_card/)     | HTML5, CSS3  | 🚧 En progreso |
-| 003 | Product Widget Responsive                                                                      | HTML5, CSS3  | ⌛ Pendiente    |
-| 004 | [Progress Bar (Challenge)](https://henmore.github.io/FrontendLeap/004_progress_bar_challenge/) | HTML5, CSS3  | ⌛ Pendiente    |
+| #   | Nombre                                                                                                         | Tecnologías  | Estado          |
+|-----|----------------------------------------------------------------------------------------------------------------|--------------|-----------------|
+| 001 | [Login Card](https://henmore.github.io/FrontendLeap/001_login_card/)                                           | HTML5, CSS3  | ✅ Completado    |
+| 002 | [Advanced Profile Card](https://henmore.github.io/FrontendLeap/002_advanced_profile_card/)                     | HTML5, CSS3  | ✅ Completado    |
+| 003 | Product Widget Responsive                                                                                      | HTML5, CSS3  | ⌛ Pendiente     |
+| 004 | [Progress Bar (Challenge)](https://henmore.github.io/FrontendLeap/004_progress_bar_challenge/)                 | HTML5, CSS3  | ✅ Completado     |
+| 005 | [Testimonials Slider (Challenge)](https://henmore.github.io/FrontendLeap/005_testimonials-slider-challenge/)   | HTML5, CSS3  | 🚧 En progreso  |
 
 ## 📌 Estructura del Repositorio
 Cada directorio de proyecto/ejercicio sigue esta convención:
 ````
-/000_nombre_del_proyecto
+/000_nombre-del-proyecto
 ````
 
 ## 🛠 Stack Tecnológico
@@ -40,7 +41,7 @@ Este repositorio está bajo licencia [MIT](https://opensource.org/license/MIT) -
 ---
 ✨ "Cada línea de código es un paso hacia el siguiente nivel" ✨
 
-Última actualización: Mayo 2025
+Última actualización: Junio 2025
 
 Hecho con 💻 y mucho ❤️ de la mano de nuestro mentor [Juan Andrés Núñez](https://github.com/juanwmedia) 💪
 
