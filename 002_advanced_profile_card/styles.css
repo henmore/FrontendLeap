@@ -1,0 +1,168 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    justify-content:  center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Poppins', sans-serif;
+    background-color: #DFDFDF;
+    color: #13143c;
+}
+
+.profile {
+    display: flex;
+    justify-content: space-between;
+    gap: 15.562em;
+    width: 100vw;
+    max-width:  1051px;
+    height: 26.125em;
+    background-color: #FFFAF2;
+    padding: 2.625em;
+    border-radius: 29px;
+}
+
+.profile__info {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    flex-grow: 1;
+ }
+
+.profile__stats {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: .5em;
+}
+
+.profile__label {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.profile__icon {
+    cursor: pointer;
+}
+
+.profile__progress {
+    appearance: none;
+    -webkit-appearance: none; /* WebKit (Chrome, Safari) */
+    -moz-appearance: none;    /* Firefox */
+    background-color: #DFDFDF;
+    margin-bottom: 6em;
+    border-radius: 1.5625em;
+    height: 0.8125em;
+}
+
+/* Chrome/Safari: Fondo de la barra */
+.profile__progress::-webkit-progress-bar {
+    background-color: #DFDFDF;
+    border-radius: 1.5625em;
+}
+
+/* Chrome/Safari: Barra de progreso (parte llena) */
+.profile__progress::-webkit-progress-value {
+    background-color: #F17A37;
+    border-radius: 1.5625em;
+}
+
+/* Firefox: Barra de progreso (parte llena) */
+.profile__progress::-moz-progress-bar {
+    background-color: #F17A37;
+}
+
+.profile__follow {
+    align-self: flex-end;
+    font-size: 1.5em;
+    margin-bottom: 0.875em;
+}
+
+.profile__button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: flex-end;
+    width: 11.9375em;
+    padding: 1.1875em;
+    border-radius: 8px;
+    background-color: #13143c;
+}
+
+.profile__button:hover {
+    background-color: #13143ce6;
+}
+
+.profile__info a {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-weight: 600;
+}
+
+.profile__social {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.profile__avatar {
+    width: 6.25em;
+    height: 6.25em;
+    border-radius: 39px;
+}
+.profile__name {
+    font-size:  1.5em;
+}
+.profile__username  {
+    font-weight: 600;
+    cursor: pointer;
+}
+.profile__bio {
+    font-size: 1.125em;
+}
+
+.profile__links {
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+}
+
+.profile__link-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFFFFF;
+    border: 1px solid #DFDFDF;
+    border-radius: 19px;
+    padding: 1em;
+}
+
+.profile__link-icon:hover {
+    background-color: #DFDFDF;
+}
+
+@media (max-width: 768px) {
+    .profile {
+        flex-direction: column;
+        gap: 0;
+        height: auto;
+    }
+    .profile__social {
+        height: 40vh;
+        margin-bottom: 2em;
+    }
+    .profile__progress {
+        margin-bottom: 3em;
+    }
+}
+
+@media (max-width: 1024px) {
+    .profile {
+        gap: 5em;
+    }
+}
+
+
+
