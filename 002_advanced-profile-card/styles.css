@@ -16,12 +16,12 @@ body {
 .profile {
     display: flex;
     justify-content: space-between;
-    gap: 15.562em;
+    gap: 15.562rem;
     width: 100vw;
     max-width:  1051px;
-    height: 26.125em;
+    height: 26.125rem;
     background-color: #FFFAF2;
-    padding: 2.625em;
+    padding: 2.625rem;
     border-radius: 29px;
 }
 
@@ -35,11 +35,11 @@ body {
 .profile__stats {
     display: flex;
     justify-content: space-between;
-    margin-bottom: .5em;
+    margin-bottom: .5rem;
 }
 
 .profile__label {
-    font-size: 18px;
+    font-size: 1.125rem;
     font-weight: 400;
 }
 
@@ -52,22 +52,22 @@ body {
     -webkit-appearance: none; /* WebKit (Chrome, Safari) */
     -moz-appearance: none;    /* Firefox */
     background-color: #DFDFDF;
-    margin-bottom: 6em;
-    border-radius: 1.5625em;
+    margin-bottom: 6rem;
+    border-radius: 1.5625rem;
     width:  100%;
-    height: 0.8125em;
+    height: 0.8125rem;
 }
 
 /* Chrome/Safari: Fondo de la barra */
 .profile__progress::-webkit-progress-bar {
     background-color: #DFDFDF;
-    border-radius: 1.5625em;
+    border-radius: 1.5625rem;
 }
 
 /* Chrome/Safari: Barra de progreso (parte llena) */
 .profile__progress::-webkit-progress-value {
     background-color: #F17A37;
-    border-radius: 1.5625em;
+    border-radius: 1.5625rem;
 }
 
 /* Firefox: Barra de progreso (parte llena) */
@@ -77,8 +77,8 @@ body {
 
 .profile__follow {
     align-self: flex-end;
-    font-size: 1.5em;
-    margin-bottom: 0.875em;
+    font-size: 1.5rem;
+    margin-bottom: 0.875rem;
 }
 
 .profile__button {
@@ -86,8 +86,8 @@ body {
     justify-content: center;
     align-items: center;
     align-self: flex-end;
-    width: 11.9375em;
-    padding: 1.1875em;
+    width: 11.9375rem;
+    padding: 1.1875rem;
     border-radius: 8px;
     background-color: #13143c;
 }
@@ -109,25 +109,25 @@ body {
 }
 
 .profile__avatar {
-    width: 6.25em;
-    height: 6.25em;
+    width: 6.25rem;
+    height: 6.25rem;
     border-radius: 39px;
 }
 .profile__name {
-    font-size:  1.5em;
+    font-size:  1.5rem;
 }
 .profile__username  {
     font-weight: 600;
     cursor: pointer;
 }
 .profile__bio {
-    font-size: 1.125em;
+    font-size: 1.125rem;
 }
 
 .profile__links {
     display: flex;
     flex-direction: row;
-    gap: 1em;
+    gap: 1rem;
 }
 
 .profile__link-icon {
@@ -137,7 +137,7 @@ body {
     background-color: #FFFFFF;
     border: 1px solid #DFDFDF;
     border-radius: 19px;
-    padding: 1em;
+    padding: 1rem;
 }
 
 .profile__link-icon:hover {
@@ -152,16 +152,16 @@ body {
     }
     .profile__social {
         height: 40vh;
-        margin-bottom: 2em;
+        margin-bottom: 2rem;
     }
     .profile__progress {
-        margin-bottom: 3em;
+        margin-bottom: 3rem;
     }
 }
 
 @media (max-width: 1024px) {
     .profile {
-        gap: 5em;
+        gap: 5rem;
     }
 }
 
